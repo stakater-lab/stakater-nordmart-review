@@ -1,4 +1,5 @@
 ## BUILD
+
 ROM maven:3.6.3-openjdk-11-slim AS build
 CPY src /usr/src/app/src
 COPY pom.xml /usr/src/app
